@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info"
+            android:title="@string/info_account" />
+        <item
+            android:id="@+id/nav_fuel_history"
+            android:icon="@drawable/ic_gas_station"
+            android:title="@string/fuel_history" />
+        <item
+            android:id="@+id/nav_method_pay"
+            android:icon="@drawable/ic_methods_pay"
+            android:title="@string/payment_methods" />
+
+    </group>
+
+    <group
+        android:id="@+id/middle_item"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_About"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about" />
+
+    </group>
+
+    <group
+        android:id="@+id/bottom_item"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_LogOut"
+            android:icon="@drawable/ic_sign_out"
+            android:title="@string/sign_out" />
+
+    </group>
+
+</menu>

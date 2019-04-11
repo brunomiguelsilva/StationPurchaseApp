@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StationPurchaseApp</string>
+    <string name="action_settings">Opções</string>
+    <string name="btn_sign_in">Iniciar Sessão</string>
+    <string name="et_user_name">Nome de Utilizador</string>
+    <string name="et_password">Palavra-Passe</string>
+    <string name="info_account">Informação da Conta</string>
+    <string name="fuel_history">Histórico de Abastecimentos</string>
+    <string name="payment_methods">Métodos de Pagamento</string>
+    <string name="about">Sobre</string>
+    <string name="sign_out">Terminar Sessão</string>
+    <string name="welcome">Bem Vindo!</string>
+    <string name="error_login">Nome de utilizador ou senha está errados, por favor corrija.</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Email</string>
+</resources>
