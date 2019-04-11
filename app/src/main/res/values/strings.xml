@@ -17,5 +17,5 @@
     <string name="welcome">Welcome!</string>
     <string name="error_login">Username/password is wrong, please correct.</string>
     <!--URLs-->
-    <string name="sign_in_url" translatable="false">https://aeonretail.gasodata.pt/GSSG-QUAL/SiteService/</string>
+    <string name="sign_in_url" translatable="false">https://aeonretail.gasodata.pt/GSSG-QUAL/SiteService/1/Authentication</string>
 </resources>
